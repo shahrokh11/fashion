@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x64b6303f370c6f485a3311E817055225aD272c3f",
+  "SCAN_LINK": "https://polygonscan.com/token/0x64b6303f370c6f485a3311e817055225ad272c3f",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Fashionable",
+  "SYMBOL": "FashionNFT",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 950000000000000000,
+  "DISPLAY_COST": 0.95,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/fashionablee",
+  "SHOW_BACKGROUND": true
+}
