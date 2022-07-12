@@ -9,9 +9,9 @@
   "NFT_NAME": "Fashionable",
   "SYMBOL": "FASH",
   "MAX_SUPPLY": 9999,
-  "WEI_COST": 2000000000000000,
+  "WEI_COST": 0,
   "DISPLAY_COST": 0,
-  "GAS_LIMIT": 300000,
+  "GAS_LIMIT": 150000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/fashionablee",
   "SHOW_BACKGROUND": true
